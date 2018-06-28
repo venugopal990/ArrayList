@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
- public class Main{
+ public class ListArray{
     public static void main(String args[]){
         Scanner sc = new Scanner (System.in);
         ArrayList<Integer> Arr = new ArrayList<Integer>(); 
